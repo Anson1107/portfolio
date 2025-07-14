@@ -22,5 +22,5 @@ CSS
 Contact
 
 Feel free to connect with me on:
-LinkedIn: YourLinkedIn
-Email: your.email@example.com
+LinkedIn: https://www.linkedin.com/in/anson-stalin-78139b374 
+Email: ansonstalin@gmail.com
